@@ -1,0 +1,7 @@
+Vasile;Ion;125;0756894586;302;3;Apartament;452,6;7
+Ionescu;Anda;126;0789456123;306;3;Apartament;524,5;4
+Pop;Ion;123;0765892456;201;2;Single;123;5
+Popa;Mara;124;0789436895;301;3;Double;145;6
+Marin;Vasile;120;0789436510;102;1;double;140,5;5
+Popovici;Cristina;121;0756923547;106;1;Apartament;398,9;4
+Murgu;Alex;122;0795348624;101;1;single;110,5;2
